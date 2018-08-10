@@ -1,5 +1,6 @@
-def meal_choice()
-  re
+def meal_choice(meal = "meat")
+  return meal
+end
 
 
 
